@@ -1,0 +1,15 @@
+/Users/michaeldriscoll/Desktop/repos/Udemy5/Udemy5/bin/Debug/net7.0/Udemy5
+/Users/michaeldriscoll/Desktop/repos/Udemy5/Udemy5/bin/Debug/net7.0/Udemy5.deps.json
+/Users/michaeldriscoll/Desktop/repos/Udemy5/Udemy5/bin/Debug/net7.0/Udemy5.runtimeconfig.json
+/Users/michaeldriscoll/Desktop/repos/Udemy5/Udemy5/bin/Debug/net7.0/Udemy5.dll
+/Users/michaeldriscoll/Desktop/repos/Udemy5/Udemy5/bin/Debug/net7.0/Udemy5.pdb
+/Users/michaeldriscoll/Desktop/repos/Udemy5/Udemy5/obj/Debug/net7.0/Udemy5.csproj.AssemblyReference.cache
+/Users/michaeldriscoll/Desktop/repos/Udemy5/Udemy5/obj/Debug/net7.0/Udemy5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaeldriscoll/Desktop/repos/Udemy5/Udemy5/obj/Debug/net7.0/Udemy5.AssemblyInfoInputs.cache
+/Users/michaeldriscoll/Desktop/repos/Udemy5/Udemy5/obj/Debug/net7.0/Udemy5.AssemblyInfo.cs
+/Users/michaeldriscoll/Desktop/repos/Udemy5/Udemy5/obj/Debug/net7.0/Udemy5.csproj.CoreCompileInputs.cache
+/Users/michaeldriscoll/Desktop/repos/Udemy5/Udemy5/obj/Debug/net7.0/Udemy5.dll
+/Users/michaeldriscoll/Desktop/repos/Udemy5/Udemy5/obj/Debug/net7.0/refint/Udemy5.dll
+/Users/michaeldriscoll/Desktop/repos/Udemy5/Udemy5/obj/Debug/net7.0/Udemy5.pdb
+/Users/michaeldriscoll/Desktop/repos/Udemy5/Udemy5/obj/Debug/net7.0/Udemy5.genruntimeconfig.cache
+/Users/michaeldriscoll/Desktop/repos/Udemy5/Udemy5/obj/Debug/net7.0/ref/Udemy5.dll
